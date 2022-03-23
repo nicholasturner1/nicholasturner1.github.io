@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reconstruction of neocortex: organelles, compartments, cells, circuits, and activity
+title: Reconstruction of neocortex\: organelles, compartments, cells, circuits, and activity
 permalink: research/reconstruction
 tags: research
 citation: Turner et al. 2021
