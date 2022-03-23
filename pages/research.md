@@ -11,7 +11,7 @@ permalink: /research/
     <li>
 <!--         <a href="{{ post.url }}">{{ post.citation }}</a> -->
          {{ post.citation }}
-         <a href="{{ post.paperlink }}">[paper]</a>
+         <a href="{{ post.paperlink }}">({{ post.journal}})</a>
          <br>{{ post.title }}
          <br><br>
     </li>
