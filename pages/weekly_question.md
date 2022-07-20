@@ -4,7 +4,7 @@ title: Weekly Question
 permalink: /weeklyquestion/
 ---
 
-There's a lot I'd like to learn from other people, but it's often difficult for me to find a suitable time to ask people meaningful personal questions. This happens for several reasons, but instead of addressing all of those, I've decided to just directly make a new setting for myself that bypasses them.
+There's a lot I'd like to learn from other people, but it's difficult for me to find a time to ask people meaningful personal questions. This happens for several reasons, but instead of addressing all of those, I've decided to just directly make a new setting for myself that bypasses them.
 
 If I've sent you a question with a link to this description, that means that I deeply admire a personal quality of yours and I'm actively thinking about trying to learn from it. I would greatly appreciate your response to my question, but do not feel any undue pressure to respond from me. If it works better, just take it as a nice compliment!
 
@@ -24,6 +24,8 @@ I've written a modest example below. Hopefully this gives an idea of what kind o
 
 **Q: How did you build a strong morning routine?**
 
-I haven't always been good about this! Instead, I'm someone who cares a lot about being able to bring focus to the things that I care about and at a certain point I found that I'd feel guilty or embarrassed when I let this tendency allow chores and boring tasks to pile up. This ruined the focus. I find that people undervalue explicitly not caring about things that don't matter, but neglecting things that actually matter is obviously a huge problem too. Setting up a routine is my negotiation with myself for when I do things without the laser focus and when I can turn the laser on. I guess you could also think of this as tuning the laser to what obstacles I need to remove before getting to what I want, but it's a bit less structured than that; the things I often do after the routine aren't my favorite, and I don't always hit every item on the list. I also include some "laser focus" tasks in the routine when there's a task that's only amenable to being done in small pieces. Still, I think the major motivation of doing this at all is trying to achieve focus outside of the routine.
+I haven't always been good about this! Instead, I'm someone who cares a lot about being able to bring focus to the things that I care about and at a certain point I found that I'd feel guilty or embarrassed when I let this tendency allow chores and boring tasks to pile up. This ruined the focus.
+
+While highlighting the things that matter is good, neglecting things that actually matter can obviously be a huge problem. Setting up a routine is my negotiation with myself for when I do things without the laser focus and when I can turn the laser on. I guess you could also think of this as tuning the laser to what obstacles I need to remove before getting to what I want, but it's a bit less structured than that; the things I often do after the routine aren't my favorite, and I don't always hit every item on the list. I also include some "laser focus" tasks in the routine when there's a task that's only amenable to being done in small pieces. Still, I think the major motivation of doing this at all is trying to achieve focus outside of the routine.
 
 This is probably also a situation where I've unconsciously picked up queues from my parents. My dad has always had a strong morning routine. When we're on vacation he'll often get up hours before everyone else and myseriously move mountains without saying a word. I get up much later, but I can sometimes roughly mimick this effect with extremely late risers now.
